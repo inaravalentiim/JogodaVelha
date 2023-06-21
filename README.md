@@ -2,7 +2,7 @@
 
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><br>
  
->Projeto feito para trabalho do módulo 1 da disciplina ALGORITMOS E PROGRAMAÇÃO: ESTRUTURAS LINEARES, quarto semestre.<br><br>
+>Projeto feito para trabalho do módulo 1 da disciplina ALGORITMOS E PROGRAMAÇÃO: ESTRUTURAS LINEARES, terceiro semestre.<br><br>
 📖Faculdade: Unisinos<br>
 💻Curso: Ciência da computação<br><br>
 
